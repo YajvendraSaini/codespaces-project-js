@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/last-image.png";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Simple image with the text of check out there amazing things;
 
 /**
  * Project list
@@ -31,10 +31,10 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Polygon BUIDL -IRL (🧱,🚀): A Five-Day long workshop filled with lots of learning",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "I attended this Polygon BUIDL -IT (🧱,🚀): A Five-Day long workshop and here are my learning after attending this workshop.",
+    url: "https://yajvendra.hashnode.dev/polygon-buidl-irl-workshop",
   },
   {
     title: "Web Development for Beginners",
@@ -43,10 +43,10 @@ const projectList = [
     url: "https://github.com/microsoft/web-dev-for-beginners",
   },
   {
-    title: "My Resume Site",
+    title: "My Resume ",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Here is my resume.",
+    url: "https://drive.google.com/file/d/18EIYzIO0JbSpCRfyfeVvc-5-73CvHPTA/view?usp=sharing",
   },
   {
     title: "GitHub Codespaces and github.dev",
